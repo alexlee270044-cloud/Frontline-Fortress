@@ -89,6 +89,11 @@
 <p>
 [이근형]
 </p>
+<h2> 추가내용 </h2>
+<p>
+유니티 게임 특성상 용량이 많아 깃허브에 업로드가 힘들어서 스크립트 파일들만 올렸습니다. 
+    https://drive.google.com/file/d/1yeT8CUvn3vXwvmgNFKPfxDYScpPfKnIh/view?usp=drive_link
+</p>
 
 </body>
 </html>
