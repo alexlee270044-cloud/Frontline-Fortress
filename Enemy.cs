@@ -21,7 +21,7 @@ public class Enemy : MonoBehaviour
 
     public void TakeDamage(float damage)
     {
-        Debug.Log("TakeDamage »£√‚µ : " + damage);
+        Debug.Log("TakeDamage Ìò∏Ï∂úÎê®: " + damage);
         currentHealth -= damage;
 
         if (healthBarUI != null)
@@ -37,7 +37,7 @@ public class Enemy : MonoBehaviour
 
     void Die()
     {
-        Debug.Log("¿˚ ªÁ∏¡");
+        Debug.Log("Ï†Å ÏÇ¨Îßù");
         Destroy(gameObject);
     }
 }
